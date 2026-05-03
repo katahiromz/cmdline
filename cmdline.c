@@ -1,6 +1,8 @@
-// cmdline.c --- The command line checker
-// Author: katahiromz
-// License: MIT
+/*
+ * cmdline.c --- The command line checker
+ * Author: katahiromz
+ * License: MIT
+ */
 #include <stdio.h>
 
 int main(int argc, char **argv)

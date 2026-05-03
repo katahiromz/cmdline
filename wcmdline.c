@@ -1,6 +1,8 @@
-// wcmdline.c --- The command line checker (Unicode version)
-// Author: katahiromz
-// License: MIT
+/*
+ * wcmdline.c --- The command line checker (Unicode version)
+ * Author: katahiromz
+ * License: MIT
+ */
 #include <windows.h>
 #include <stdio.h>
 

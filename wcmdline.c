@@ -9,6 +9,7 @@
 int wmain(int argc, wchar_t **argv)
 {
     int i;
+    printf("argc: %d\n", argc);
     for (i = 0; i < argc; ++i)
     {
         printf("argv[%d]: %S\n", i, argv[i]);

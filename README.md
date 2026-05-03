@@ -1,5 +1,5 @@
-# cmdline by katahiromz
+# cmdline
 
-The command line checker.
+The command line checker by katahiromz.
 
 License: MIT
